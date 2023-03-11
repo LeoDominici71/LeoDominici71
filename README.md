@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Java projects.
+- 🌱 I’m currently learning Spring boot and Angular integration
+- 👯 I’m looking to collaborate on Java projects using Spring boot
+
 <!--
+
 **LeoDominici71/LeoDominici71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
