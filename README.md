@@ -1,4 +1,4 @@
-### Hi there 👋
+### Leonardo Dominici
 
 - 🔭 I’m currently working on Java projects.
 - 🌱 I’m currently learning Spring boot and Angular integration
