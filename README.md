@@ -1,8 +1,8 @@
 ### Leonardo Dominici
 
-- 🔭 I’m currently working on Java projects.
-- 🌱 I’m currently learning Spring boot and Angular integration
-- 👯 I’m looking to collaborate on Java projects using Spring boot
+- 🔭 I’m currently working at GFT Tecnologies in a great project to construct a digital bank.
+- 🌱 I’m constantly learning Java Spring boot. Actually focusing on cloud technologies and front end when i got time. 
+- 👯 I’m looking to collaborate on Java projects using Spring boot.
 
 <!--
 
