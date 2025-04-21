@@ -16,6 +16,9 @@
 
 ![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoDominici71&show_icons=true&theme=github_dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDominici71&layout=compact&theme=github_dark)
+
+
 
 
 
