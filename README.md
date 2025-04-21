@@ -18,6 +18,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDominici71&layout=compact&theme=github_dark)
 
+## My skills 📜
+
 
 
 
