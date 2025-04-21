@@ -5,9 +5,7 @@
 ✨ I'm a backend engineer at
 
 
-- <a href="https://www.gft.com" target="_blank">
-  <img src="https://github.com/user-attachments/assets/ae5dd2e8-d712-4405-a4cc-6a61c6558d1e" alt="GFT Logo" width="35"/>
-</a> I’m working at GFT Technologies, and at the moment we are developing a new system for Gibraltar International Bank.
+- <a href="https://www.gft.com" target="_blank"> <img src="https://github.com/user-attachments/assets/ae5dd2e8-d712-4405-a4cc-6a61c6558d1e" alt="GFT Logo" width="35"/> </a> I’m working at GFT Technologies, and at the moment we are developing a new system for Gibraltar International Bank.
 
 - 🌱 I’m constantly learning Java Spring boot. Actually focusing on cloud technologies and front end when i got time.
 
