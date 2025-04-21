@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=leonardodominici&color=blue)
 
-✨ I'm a backend engineer at GFT Technologies <img src="https://github.com/user-attachments/assets/1b444e67-a6fc-4fae-9b5c-49726d8bfa78" alt="GFT Logo" width="50"/> , and at the moment we are developing a new system for Gibraltar International Bank (GIB).
+✨ I'm a backend engineer at GFT Technologies <img src="https://github.com/user-attachments/assets/1b444e67-a6fc-4fae-9b5c-49726d8bfa78" alt="GFT Logo" width="60"/> , and at the moment we are developing a new system for Gibraltar International Bank (GIB).
 
  GFT Technologies, and at the moment we are developing a new system for Gibraltar International Bank (GIB).
 
