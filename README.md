@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=leonardodominici&color=blue)
 
-✨ I'm a backend engineer and a blockchain enthusiastic
+✨ I'm a backend engineer at GFT Tecnologies ![image](https://github.com/user-attachments/assets/c5e86cff-fce7-483e-ae5e-f0a89bcf1417) and at the moment we are developing a new system for Gibraltar international bank (GIB).
 
 - 🔭 I’m 
 - 🌱 I’m constantly learning Java Spring boot. Actually focusing on cloud technologies and front end when i got time. 
