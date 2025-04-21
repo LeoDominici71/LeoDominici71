@@ -14,7 +14,7 @@
 
 ## Quick overview
 
-![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardodominici&show_icons=true&theme=github_dark)
+![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoDominici71&show_icons=true&theme=github_dark)
 
 
 
