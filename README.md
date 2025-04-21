@@ -1,4 +1,4 @@
-### Leonardo Dominici
+##### 👋 Hello everyone, I'm Leonardo Dominici
 
 - 🔭 I’m currently working at GFT Tecnologies in a great project to construct a digital bank.
 - 🌱 I’m constantly learning Java Spring boot. Actually focusing on cloud technologies and front end when i got time. 
