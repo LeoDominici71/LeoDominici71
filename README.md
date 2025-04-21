@@ -2,15 +2,17 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=leonardodominici&color=blue)
 
-✨ I'm a backend engineer postgraduated in java and archtecture. I have a deep understanding of banking systems after several years working at the financial market in diverse areas, since customer services , passing trought insurances to investiments.
-
 ## About me
 
-- <a href="https://www.gft.com" target="_blank"> <img src="https://github.com/user-attachments/assets/ae5dd2e8-d712-4405-a4cc-6a61c6558d1e" alt="GFT Logo" width="35"/> </a> I’m working at GFT Technologies, and at the moment we are developing a new system from scratch for Gibraltar International Bank (GIB).
+✨ I'm a backend engineer with a 🎓 degree in Economics and a 📘 postgraduate specialization in Java and Software Architecture.
+🏦 I’ve gained a deep understanding of banking systems after several years working in the financial market — from customer service, through insurance, all the way to investments.
 
-- 🌱 I’m constantly learning Java Spring boot. Actually focusing on cloud technologies and front end when i got time.
+📚 I love reading about economics, and I’m a big enthusiast of DeFi and blockchain.
+🛠️ Also, I'm a certified blockchain developer by the Blockchain Council.
 
-- 👯 I’m looking to collaborate on Java projects using Spring boot.
+<a href="https://www.gft.com" target="_blank"> <img src="https://github.com/user-attachments/assets/ae5dd2e8-d712-4405-a4cc-6a61c6558d1e" alt="GFT Logo" width="35"/> </a> Actually, I'm working at GFT Technologies, and at the moment we are developing a new system for Gibraltar International Bank (GIB).
+
+
 
 <!--
 
