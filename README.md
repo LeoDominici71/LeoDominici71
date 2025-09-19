@@ -32,6 +32,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 [![Mambu Cloud](https://img.shields.io/badge/Mambu%20Cloud-1E90FF?style=for-the-badge&logo=mambu&logoColor=white)](https://mambu.com/en)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![IBM DB2](https://img.shields.io/badge/IBM%20DB2-006699?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/products/db2)
+[![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=openshift&logoColor=white)](https://www.openshift.com)
+[![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-052F5F?style=for-the-badge&logo=ibm-cloud&logoColor=white)](https://www.ibm.com/cloud)
+
 
 
 ## Quick overview
