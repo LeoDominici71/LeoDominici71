@@ -15,11 +15,14 @@
 
 ## My skills 📜
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+[![IBM DB2](https://img.shields.io/badge/IBM%20DB2-006699?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/products/db2)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -28,14 +31,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+[![Mambu Cloud](https://img.shields.io/badge/Mambu%20Cloud-1E90FF?style=for-the-badge&logo=mambu&logoColor=white)](https://mambu.com/en)
+[![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=openshift&logoColor=white)](https://www.openshift.com)
+[![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-052F5F?style=for-the-badge&logo=ibm-cloud&logoColor=white)](https://www.ibm.com/cloud)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-[![Mambu Cloud](https://img.shields.io/badge/Mambu%20Cloud-1E90FF?style=for-the-badge&logo=mambu&logoColor=white)](https://mambu.com/en)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-[![IBM DB2](https://img.shields.io/badge/IBM%20DB2-006699?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/products/db2)
-[![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=openshift&logoColor=white)](https://www.openshift.com)
-[![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-052F5F?style=for-the-badge&logo=ibm-cloud&logoColor=white)](https://www.ibm.com/cloud)
+
 
 
 
